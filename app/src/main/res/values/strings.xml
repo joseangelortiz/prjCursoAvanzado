@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AlertReport</string>
+    <string name="email">Email</string>
+    <string name="long_password">La contraseña es muy corta, debe tener un mínimo de 6 caracteres</string>
+    <string name="auth_error">La autenticación ha fallado, revisar los datos introducidos</string>
+    <string name="reset_password">Enviar correo electrónico para cambiar la contraseña</string>
+    <string name="remove_user">Borrar usuario</string>
+    <string name="new_password">Nueva contraseña</string>
+    <string name="hint_email">Introducir correo electrónico</string>
+    <string name="hint_password">Introducir contraseña</string>
+    <string name="btn_sign_in">Ingresar</string>
+    <string name="btn_sign_up">Registrar</string>
+    <string name="btn_link_sign_in">¿Ya estás registrado? Ingresar aquí</string>
+    <string name="btn_link_sign_up">¿No estás registrado? Registrar aquí</string>
+    <string name="btn_link_reset_password">¿Se te olvidó la contraseña? Cambiar contraseña aquí</string>
+    <string name="btn_reset_password">Cambiar contraseña</string>
+    <string name="btn_sign_out">Cerrar sesión</string>
+    <string name="msg_reset_password">Por favor introducir el correo electrónico de la cuenta, luego seguir las instrucciones enviadas.</string>
+    <string name="change">Cambiar</string>
+    <string name="remove">Borrar</string>
+    <string name="title_reset_password">¿Olvidó la contraseña?</string>
+    <string name="title_new_password">Introducir nueva contraseña</string>
+    <string name="title_new_post">Nueva Publicación</string>
+    <string name="title_posts_tv">Publicaciones</string>
+    <string name="hint_title_new_post">Título</string>
+    <string name="hint_des_new_post">Descripción</string>
+    <string name="hint_location_new_post">Location</string>
+    <string name="btn_select_new_post">Seleccionar</string>
+    <string name="btn_show_new_post">Ver Publicaciones</string>
+    <string name="btn_upload_new_post">Crear Publicación</string>
+    <string name="btn_add_new_post">Nueva Publicación</string>
+    <string name="btn_settings_user">Ajustes</string>
+
+</resources>
